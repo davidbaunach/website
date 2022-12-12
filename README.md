@@ -1,5 +1,5 @@
-A repo to test out static website stuff.
+Making a new website, goal is as simple as possible.
 
-Just a total newb messing around, trying to learn.
+1996 esque
 
-Ready to make a lot of mistakes!
+Starting from scratch
