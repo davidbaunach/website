@@ -1,0 +1,12 @@
+1. Download app from FDroid or Google Play
+2. Click 'login' on top right, select 'Register' tab, and put in a name and password
+3. Scroll down to the 'ssb' app in the 'core apps' section of the home page, click it
+4. An account number will have been generated for you, looking something like '@49Om3p7zxc...' click on that account number
+5. Click the 'edit profile' button
+6. Give your profile a name and description, click 'Save Profile', a popup will ask if you want to ssb-append, click 'Allow' (can also check the box to 'remember this decision' if you don't want this popup every time you do something on ssb)
+7. Click on the 'apps' tab at the top and find and click the 'admin' app in 'core apps'
+8. Scroll down and check the box for 'Peer Exchange', click 'allow' on the popup (while here, can also scroll further down and give your room a different name, but that's not necessary)
+9. Now go back to the 'apps' tab, click on 'ssb', find the 'Connections' tab and click on it
+10. Here's the p2p part that's just going to be painful, unless you already have a friend on ssb, you just gotta connect to everything you can see, and follow every account you can follow, as soon as people start following you back, replication will start.
+10a. To do this, click 'Connect' on any of the rooms listed in the 'Broadcast' area of the 'Connections' tab, scroll down to the 'Connections' section, click on the accounts you can connect to in that room, which will bring you to their profile page, and click 'Follow' (clicking 'Allow' on the popup)
+11. No matter if accounts are replicating with you yet or not, give yourself a pat on the back! All the hard work is done, now it's just a waiting game. Go back to your profile, make an introductory post letting the Scuttleverse know who you are, check the connections tab from time to time, follow more accounts, try connecting to accounts, make get a sip of replication, might get nothing, but it's worth a go. The magic will start when another account follows you, and you're online, so try to keep the app up as much as possible until that happens. It can take a few days, p2p is slow.
