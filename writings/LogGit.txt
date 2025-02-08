@@ -1,0 +1,31 @@
+Using Git to distribute digital media.
+
+Right off the bat I want to set expectations: I know almost nothing about programming or dev work, all I can really do is html, and if I want to make myself hate the world, I can do some css. So essentially I format documents. That said, I love offline-first, p2p, smallnet, and all that good stuff.
+
+So when I saw Solderpunk's article on using Git for p2p distribution (https://portal.mozz.us/gemini/zaibatsu.circumlunar.space/~solderpunk/gemlog/low-budget-p2p-content-distribution-with-git.gmi) and then saw Degauss's project gwit (https://sr.ht/~ivilata/gwit/) that was inspired by it, I wanted to help. But I quickly realized there wasn't much I could do to help build out gwit, quick look at what Degauss was doing, and realized it was above my head.
+
+Decided to go in a different direction, lean on my strengths as an artist, and just give the idea (of using Git to publish stuff) a name and an image.
+
+Started with the name, after a few different iterations, settled on LogGit. Wanted the name to express the intention of using 'Git' as a 'log' to track changes to files over time, thus allowing for changeable content.
+
+Then the image, drew inspiration from the Git logo, but kept it simple and small (32x32 pixels):
+
+https://davidbaunach.com/images/LogGit%20logo.jpeg
+
+And then the idea: use Git to distribute stuff.
+
+For anyone who is comfortable with computers and has some basic understanding of Git, we can start doing this now.
+
+I'm testing out the idea in my free time, using a Git gui on my computer, and cloning static sites whose author's have made their Git repo public (many thanks to 100r.com and j3s.sh to making their repos easy to find). I also added the LogGit image and the link to clone from the public repo for my personal site and a few other projects I work on.
+
+Cool thing I've found already, is that rss is no longer needed, whenever a change gets made to a site, I can pull the changes, look in the Git history, and see what was added or deleted.
+
+What I like about this, is that nothing needs to be built, nothing major needs to change, just need to publish a link to clone the repo.
+
+I also like that you can use the infrastructure of the enemy to publish.
+
+Go ahead and host the repo on Github or any other major git forge, can typically do it for free, but the original always remains on your device, and you can move it elsewhere whenever you want, and leave your new location as your last commit. Next level would be to self-host it on a Forgejo/Gitea/whatever instance, or what I haven't tried out yet (but plan to soon) is host it yourself on Tor and keep things really sneaky.
+
+I threw together a basic site with the info here: https://davidbaunach.github.io/LogGit/ but you can also LogGit here: https://techpriesthub.xyz/forgejo/terrantechpriest/LogGit.git to get the most up-to-date version (I won't be adding updates to the Gihub version unless they become necessary).
+
+Lastly, here's the repo where I'm trying stuff out, so far, have just been messing around with the idea of blogging, seeing how easy it would be for people to comment on posts via pull request: https://techpriesthub.xyz/forgejo/terrantechpriest/LogGit_stuff.git Probably will test stuff out there, and if it seems promising, move it over to Github so it will be easier for others to interact.
