@@ -1,0 +1,102 @@
+Catholic Radicals board game:
+
+>Objective:
+Objective is to make it to the house with at least 1/2 of the party retaining their delivery item (an item they are to deliver to the Worker House), the items can be lost in various events along the way
+Has a set path with spaces to progress towards goal
+Goal is a Catholic Worker House (you leave from a Catholic Worker Farm)
+
+>Start:
+At the start of the game, the playing order is established via d6 roll, the player going last is the first to pick randomly from the deck of characters, proceeding to the first (first shall be last, last shall be first)
+Characters: various characters loosely based off of real life heroes in the movement, having starting stats and a special ability reflecting their historical counterpart
+1. Dora: Dorothy Day (ebike) [short, tough, from the slums in Mexico City, incredibly bold] {ukulele} {fighter} (ability: once per game, if the player rolls a Community Time event, can choose to Doing the Dishes without rolling)
+2. Pete: Peter Maurin (roller blades) [Mohawk-French Canadian gentleman, fast talking, energetic, a little angry at times, medium build, works out from time to time] {mandolin} {rogue} (ability: once per game, when an Act of Mercy is rolled, can choose to encourage the member(s) of the party with the least Zeal, giving them +2 Zeal, and Pete +1 Zeal)
+3. Pip: Philip Berrigan (homemade vehicle that runs off cooking oil-internally filtered-dumpster dives or gets from mom and pop restaurants)[medium height, skinny, nervous, but when he's gets focused, unstoppable; freckles, red hair, Irish-American from Boston] {tin whistle} {paladin} (ability: once per game, if a Cop Encounter is rolled, can opt to sacrifice himself and let the rest of the party escape, facing the full results of the encounter that is rolled)
+4. Finny: Finisia Medrano (horse) [just copy-paste, cool enough already] {spoons} {healer} (ability: once per game, if the player rolls a Community Time event, can opt to forage for food, which results in +1 Food for every member of the party)
+5. Marty: Martin Luther King (bicycle) [tall, built like a rock, the "barbarian" of the party, inner city kid from Detroit, but his power is in his words] {drum} {priest} (ability: once per game, if the player rolls a Community Time event, can opt to give a stirring speech to the party, which results in +2 Zeal for every member of the party)
+6. Frankie: St Francis of Assisi type (Chinese Wheelbarrow with Sail, Finny's horse helps pull when needed)[a short, stocky, sturdy woman, wears Franciscan style robes she made herself, in thinking Peruvian, but could also be Pacific Islander] {sings} {scout} (ability: once per game, )
+7. Bud: (electric wheelchair) [lost both legs serving in the Army, typical Kansas farmboy, the problem is the state, and it needs to go] {old beat up guitar} {barbarian} (ability: once per game, if the player rolls a Cop Encounter event, can opt to use his knowledge of the Military-Industrial Complex to talk the cop down, making it a Level 1 encounter and allowing Bid to keep his Delivery Item)
+8. Glitch (homemade electric car with tons of solar panels, charges everyone elses stuff) [Japanese kid, doesn't talk much, builds with whatever she finds in dumpsters, slight build, doesn't talk much] {Native American Flute} {tinker} (ability: once per game, )
+9. The Old Pilgrim (mule) [Appalchian old timer, moonshiner, getting too old for this, but can't do anything else, who else would keep these kids out of trouble? Short, grumpy, would rather run away, but once he's cornered he turns into a Maine Coon] {harmonica} {monk} (ability: once per game, if a Cop Encounter is rolled, The Old Pilgrim can slip away in the chaos, and completely avoid any effects)
+
+
+>Mechanics:
+There are 3 stats: Food, Supplies, and Zeal
+-Food: spent and earned in encounters
+-Supplies: spent and earned in encounters
+-Zeal: essentially health, when it drops to 0, the member leaves the party and drops out of the game
+Encounters, need to be randomly chosen out of 3 types: Work of Mercy, Work of Charity, Work of Community, with a fail on that roll resulting in an encounter with the cops(d6 roll to determine: 1=cops, 2-3=mercy, 4-5=charity, 6=community)
+-Work of Mercy: feeding the hungry, clothing the naked, guerilla gardening,
+-Work of Charity: direct action, destroying corpo stuff, joining a protest, etc.
+-Work of Community: pitching camp, making a meal, clarification of thought, doing the dishes
+Delivery Item: each member of the party starts with 1, it can be lost in cop encounters
+Cop Encounter: can lose food, supplies, cleanliness, as well as lose OR gain zeal
+
+>Turn:
+The party moves together, with each member moving one space, giving or asking for mutual aid, and having one random event
+Mutual aid: during a turn, a player can ask for any resource (except zeal) from other members of the party, OR, may give any resource (except zeal) to another member of the party. This happens before the random encounter for the turn is rolled
+If, at the end of the turn, the player has 0 Food or Supply, must roll a D6, and if a 1 is rolled, loses 1 Zeal
+
+>Win/lose:
+Half the party must make it to the Catholic Worker House with their delivery items, if more than half the party lost their items, or if more than half of the party peaced out (lost all their zeal) the game is lost
+If entire party runs out of food and supplies, the game is lost
+
+>Supplies:
+Character Cards: cards with the starting stats for each character, these are drawn at the start of the game
+Food Cards
+Supply Cards
+Cleanliness Cards
+Zeal Cards
+Delivery Item Cards
+Marker to keep track of party on the board
+Game board
+Dice
+
+>Encounters:
+-Cop (always negative) (1)
+level 1(9): -1 Food and -1 Zeal for each member of party, player looses Delivery Item
+level 2(6): -1 Food, -1 Supply, and -1 Zeal for each member of party, player looses Delivery Item
+level 3(3): -2 Food, -2 Supply, and -1 Zeal for each member of party, player looses Delivery Item
+level 4(1): -2 Food, -2 Supply, and -2 Zeal for each member of party, player looses Delivery Item
+-Mercy (mixed) (2-3)
+level 1(9): feeding the hungry | roll d6, 1-3= -1 Food; 4-6= +1 Zeal
+level 2(6): clothing the naked | roll d6, 1-3= -1 Supply; 4-6= -1 Zeal
+level 3(3): guerrilla gardening | roll d6, 1-3= -2 Food; 4-6= +1 Zeal
+level 4(1): the gift of conversation | roll d6, 1-3= no change; 4-6= -1 Zeal
+-Charity (mixed) (4-5)
+level 1(9): destroy billboard | roll d6, 1-3= -1 Supply; 4-6= -1 Zeal
+level 2(6): joining a protest | roll d6, 1-3= -1 Supply; 4-6= +1 Zeal
+level 3(3): distribute zines | roll d6, 1-3= -2 Supply; 4-6= -1 Zeal
+level 4(1): destroy an Amazon delivery truck | roll d6, 1-3= -2 Supply; 4-6= -1 Zeal
+-Community (always positive) (6)
+level 1(9): pitching camp | +1 Food and +1 Zeal for each member of the party
+level 2(6): making a meal | +1 Food, +1 Supply, and +1 Zeal for each member of the party
+level 3(3): clarification of thought | +2 Zeal for player, +1 Zeal for each member of the party
+level 4(1): doing the dishes | +3 Zeal for player, +2 Zeal for each member of the party
+
+
+
+
+I think the goal is for each player to have 4 turns, so considering a 5 player group, the trail needs to have at least 20 spots
+And if this is the case, then starting Zeal has to be pretty low, like 4 or 5
+
+
+All characters have some mode of transportation, and I really want one of them to have a Chinese wheelbarrow with a sail [-:
+
+
+IF, average party size is 4, and we want each member to have 6 turns, that would be 24 turns. In 24 turns, you get roughly 4 cop encounters, that's potentially -5 zeal, but also 4 community encounters, so potentially +5 zeal -- starting zeal needs to be between 2-4
+
+Left to do: figure out special ability for each character, and then make the board and cards, then playtesting!
+
+Whats needed:
+Board
+Cards:
+-food X
+-supply X
+-zeal X
+Encounters:
+-Cop X
+-Mercy X
+-Charity X
+-Community X
+Characters
+
