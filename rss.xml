@@ -6,7 +6,17 @@
         <item>
             <title>Consumer Catholicism.txt</title>
             <link>https://davidbaunach.com/writings/consumer-catholicism.txt</link>
-            <description>A mini essay about the encrouching of consumeristic tendencies in Catholic practice.</description>
+            <description>A mini essay about the encrouching of consumeristic tendencies in Catholic practice. Link: https://davidbaunach.com/writings/consumer-catholicism.txt</description>
+        </item>
+        <item>
+            <title>Catholic Radicals V1.txt</title>
+            <link>https://davidbaunach.com/writings/catholic-radicals-v1.txt</link>
+            <description>Version one of an anarchist board game around the initial ideas of Peter Maurin for what eventually formed as the Catholic Worker. Link: https://davidbaunach.com/writings/catholic-radicals-v1.txt</description>
+        </item>
+        <item>
+            <title>Getting Started with Tilde Friends (SSB client and more!).txt</title>
+            <link>https://davidbaunach.com/writings/tilde-friends-startup.txt</link>
+            <description>A walkthrough for setting up Tilde Friends and getting connected to the SSB network. Link: https://davidbaunach.com/writings/tilde-friends-startup.txt</description>
         </item>
     </channel>
 </rss>
