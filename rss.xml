@@ -1,0 +1,13 @@
+<rss version="2.0">
+    <channel>
+        <title>davidbaunach.com</title>
+        <description>The Personal Website of Fr David Baunach</description>
+        <link>https://davidbaunach.com</link>
+        <item>
+            <title>Consumer Catholicism.txt</title>
+            <link>https://davidbaunach.com/writings/consumer-catholicism.txt</link>
+            <description>A mini essay about the encrouching of consumeristic tendencies in Catholic practice.</description>
+        </item>
+    </channel>
+</rss>
+
