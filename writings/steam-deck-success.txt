@@ -1,0 +1,13 @@
+>Steam Deck Success
+Published in 2023
+
+The final step is complete: I've got my Steam Deck setup as a full replacement for my phone. The last puzzle piece was getting an Android emulator working for those few apps I still need. After some research, seemed like just using the built in emulator from Android Studio was the best bet, and it works like a charm! I'm running MySudo for phone and texting on the emulator, and there's a few other apps I'll probably add eventually. Everything else I need either runs on SteamOS, or in a virtual box.
+
+Only major problem I wasn't able to solve was gps navigation. My plan for that is just to turn my old phone into a dedicated gps device that'll live in my car. Won't be needing it for anything else anyway.
+
+The reason for wanting to fully replace my phone, is functionality. The Steam Deck is a portable pc. I was already using it to replace my work laptop, it's a smaller device to transport between offices, and with a full dock+keyboard+mouse+monitor setup at each office, it's more enjoyable to use than a cramped laptop.
+
+It's also an entertainment center, with most of my Steam library being playable, as well as my collection of media available over Jellyfin. I just keep a usb c to html cable in the bag, and it's ready to connect to any available screen.
+
+But I will close with my final pain point, because it's not all skittles and beer. A physical keyboard and mouse for when I'm not docked. I haven't found a Bluetooth set that's easy enough to carry around in my bag, at least not yet. I'm sure I'll find one eventually, but the set I already had, and the one I recently purchased, are both too large. So that will be the next part of the quest, ever onward and up!
+

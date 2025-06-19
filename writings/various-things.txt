@@ -1,0 +1,44 @@
+>Various THings
+published in 2023 or 2024
+
+>>Kagi
+
+I've often dropped the phrase "if you're not paying for it with money, then your data is the payment" in my feeble attempts to convince family and friends to drop Facebook, Instagram, Tik Tok, etc... And I say feeble, because it never really seems to work. I need some new strategies.
+
+About a month ago, decided to follow my own advice, and started using, and paying for, Kagi. Google and Bing, as well as the various other ways of getting their search results, have been kicked to the curb!
+
+My one month review begins with the fact that I search quite a bit. Blew through the 300 searches plan in two weeks, so I'm on the next tier now.
+
+Search results have been great, a very few times I've had to venture to the second page of results.
+
+I'm not a fan of them trying to add a bunch of ai features, but I understand that it's in vogue at the moment, and they all seem to be opt in, so I'm just ignoring them.
+
+I'll give it a 9/10 (gotta cut one point for the ai garbage), highly recommended as a search engine, and giving Google the boot is a wonderful bonus.
+
+>>Gris
+
+Picked up Gris on the Summer Steam Sale, and just finished it yesterday.
+
+Absolutely beautiful art style, gameplay (love that you get to bring things back to life by singing!), and storyline. I almost cried at then end.
+
+Also, seems like it was made for the Steam Deck.
+
+It's getting a 10/10, will definitely be replaying in the near future.
+
+>>Archiving
+
+I've started to take offline archiving seriously over the past month. A combination of Tumblr and Twitter going full silo, as well as Youtube vids dissapearing from my playlists, and then just the general ephemeral nature of the Internet.
+
+First step was adding more storage to my two main backup devices. I already had Resilio/Syncthing setup to keep things synced across those two devices, so once the new storage capacity was in place, just needed to add a few folders and away we go!
+
+Backing up vids has so many options, I'm not going to go into what I use, it's changed just in the past month, and will probably change again.
+
+But for websites and blogs, I played around with two tools: first I tried out NB and then Offpunk.
+
+Offpunk is the winner for my needs, but NB is a very interesting option.
+
+NB was easier to figure out for someone not terribly familiar with the terminal, so it was a good a starting place. And it does store snapshots of webpages, and allow you to browse stored sites, as well as having a whole bunch of note taking functionalities. However, the way it processed webpages for storage wasn't the best, certain parts would get cut off, and it doesn't even try to get images, which aren't necessary, but are sometimes useful to have.
+
+Offpunk is only about storing websites for offline view, and also adds a syncing feature, which seems like it will be useful for blogs that get updated every once in a while. It also stores images, highly pixelated, but it's enough to give an idea of what the image is about. The way it browses through the synced sites is definitely smoother than NB as well. 10/10 for my purposes.
+
+It also works with Gemini protocol, which is something I want to write more about, but I'll save that for the future.

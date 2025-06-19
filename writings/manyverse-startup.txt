@@ -1,0 +1,18 @@
+>Getting Started with Manyverse
+Published 2022 or 2023
+
+Here's a walkthrough on how to get started on Manyverse, a peer-to-peer, offline first social media.
+1. Download the app, you cannot have the same acount on multiple devices, so if you want it on your phone and computer, go ahead and download it on both, but be ready to setup seperate accounts (people usually name one account 'joe smith phone', and the other 'joe smith computer')
+I highly recommend starting with your computer account, the computer app is more dependable.
+2. Setup your account. Everything will be empty, don't worry, that's normal. Setup your profile, upload a profile pic, write a description of yourself.
+3. Now, let's get you connected. go to https://ssbroom.techpriesthub.xyz/ in your browser on the same device, on the top right part of screen, right next to 'sign in,' you'll see 'create new invite.' Follow the prompts and connect.
+4. On your connections tab, click through to see the room, and start following everyone you see online.
+5. And now we wait...
+6. Unfortunately, people need to follow you back for you to connect to the network (this is a pain point, and I haven't found a good way to get around it).
+7. In the meantime, make an introduction post, and use the hashtage #new-people and #newhere to get noticed.
+7. I'll try to follow back accounts that join the room at least once a day, so check back after a few days, it'll start downloading posts once we're connected, then start following some people, liking, commenting, all the usual stuff!
+Advanced things to try:
+A. Increase replication hops: go to settings, and increase replication hops to 3 or 4 in order to load more accounts to your device. This will require more memory (each account you can view is stored on your device, which means it's accessible offline, but it also means you can take up a lot of memory if you're not careful), so you can also click through to storage, and increase the storage limit to whatever is good for that device.
+B. Find other open room servers to connect to here: https://github.com/ssbc/ssb-server/wiki/%23ssbrooms
+c. Connect to pub servers: if you want to meet a lot of people really quickly, a pub server is the way to do that. I'll leave it up to you to do more research and decide if it's something you want to do. Search terms to get you moving in the right direction are: 'ssb' 'pub' 'server'. SSB is the protocol Manyverse is built on, stands for Secure Scuttlebutt. Pub servers have a few drawbacks, but if you want to find other people fast, it's the best way.
+
