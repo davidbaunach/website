@@ -4,6 +4,11 @@
         <description>The Personal Website of Fr David Baunach</description>
         <link>https://davidbaunach.com</link>
         <item>
+            <title>A Soft Rebellion.txt</title>
+            <link>https://davidbaunach.com/writings/a-soft-rebellion.txt</link>
+            <description>Sewing and mending your own clothes as an act of rebellion. Link: https://davidbaunach.com/writings/a-soft-rebellion.txt</description>
+        </item>
+        <item>
             <title>Pope Woes.txt</title>
             <link>https://davidbaunach.com/writings/pope-woes.txt</link>
             <description>A mini essay on my concerns about Pope Francis and Pope Leo XIV. Link: https://davidbaunach.com/writings/pope-woes.txt</description>
@@ -12,11 +17,6 @@
             <title>Consumer Catholicism.txt</title>
             <link>https://davidbaunach.com/writings/consumer-catholicism.txt</link>
             <description>A mini essay about the encrouching of consumeristic tendencies in Catholic practice. Link: https://davidbaunach.com/writings/consumer-catholicism.txt</description>
-        </item>
-        <item>
-            <title>Catholic Radicals V1.txt</title>
-            <link>https://davidbaunach.com/writings/catholic-radicals-v1.txt</link>
-            <description>Version one of an anarchist board game around the initial ideas of Peter Maurin for what eventually formed as the Catholic Worker. Link: https://davidbaunach.com/writings/catholic-radicals-v1.txt</description>
         </item>
     </channel>
 </rss>
