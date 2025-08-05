@@ -1,0 +1,54 @@
+A SAINT MAKER PLAINTEXT STYLESHEET
+By: Techpriest
+Year: 2025
+
+Title: TITLE
+
+Heading: > Heading
+
+Endnote: (1) after the quote or reference, and then a numbered Endnote section
+
+Bibliography: after Endnote section for works not directly cited
+
+Block Quotes: indented with 3 spaces
+
+Chapter Break: --- at the end of the chapter or section
+
+End of document: ---fin---
+
+
+Example:
+
+THE SACRED HEART OF JESUS
+
+> Cathedral novena
+
+Vicar of Christ Holy days of obligation encyclical cathedral natural law catholic confession John-Henry Newman nun. St. Michael the Archangel defend us in battle Papal enclave St. Gabriel beatified Our Lady of Guadalupe relic diocese John-Henry Newman Ursuline annunciation. Priest vicar of Christ beatified catechesis Fatima Thomas Merton magisterium College of Cardinals priest annointing of the sick intercession opus Dei Pope Francis seal of confession. Priest annunciation confession saint medal Apostles creed Padre Pio magisterium St. Gabriel encyclical transubstantiation bless us, oh lord, and these thy gifts our Father, who art in Heaven adoration Papal enclave stations of the cross. Benedictine feast day annunciation Benedictine Apostles creed Holy days of obligation confession ecumenical council litany liturgy of the hours.
+
+   Forgive me Father, for I have
+   sinned Papal enclave
+   Padre Pio cathedral apostolic
+   succession Papal enclave
+   communion annunciation. (1)
+
+Apostolic succession Papal enclave ecumenical council salve regina litany St. Gabriel priest Christe eleison St. Therese of Lisieux feast day. Assumption triduum the sacred heart of Jesus St. Gabriel Ursuline saint abbot communion priest College of Cardinals miter Pope Francis eucharist. Diocese Cistercian ecumenical council immaculate conception rosary tradition feast day annunciation Our Lady of Guadalupe transubstantiation Papal enclave. St. Rose of Lima College of Cardinals rosary annointing of the sick saint liturgy of the hours pontificate Lourdes salve regina St. Francis of Assisi St. Joseph Paschal mystery. Papal enclave catholic bless us, oh lord, and these thy gifts Cistercian annunciation transubstantiation triduum St. Thomas Aquinas catholic consecration.
+
+---
+
+> Stations of the cross
+
+Lourdes Pope Francis stations of the cross holy Mary, Mother of God Papal enclave opus Dei St. Francis of Assisi St. Therese of Lisieux monk novena opus Dei Benedictine tridentine rosary. Annointing of the sick encyclical feast day canonization liturgy of the hours immaculate conception annointing of the sick confession Trappist seal of confession Lourdes monastery. The sacred heart of Jesus confiteor litany saint medal transubstantiation Trappist encyclical triduum eucharist St. Gabriel adoration. Thomas Merton ecumenical council John-Henry Newman Thomas Merton stations of the cross annunciation seal of confession confession natural law stations of the cross Ash Wednesday cathedral forgive me Father, for I have sinned annunciation. Lourdes adoration Kyrie eleison canonization salve regina universal saint medal St. James St. Francis of Assisi St. Thomas Aquinas.
+
+Ash Wednesday John-Henry Newman Papal enclave seal of confession annointing of the sick adoration apostolic succession St. Thomas Aquinas tridentine John-Henry Newman Fatima monsignor peace be with you, and also with you beatified. Apostles creed beatified priest annointing of the sick nun John-Henry Newman Padre Pio saint medal Pope St. John Paul II Fatima Pope Francis vicar of Christ. Ash Wednesday Apostles creed apostolic succession seal of confession relic monsignor adoration magisterium deacon dogma peace be with you, and also with you feast day St. Francis of Assisi adoration magisterium. Tradition abbot opus Dei tridentine monk Benedictine Padre Pio communion vatican cathedral monk canonization apostolic succession. Papal enclave dogma dogma communion confession adoration beatified abbot seal of confession opus Dei rosary.
+
+---
+
+> Endnotes
+1. https://graysonhicks.github.io/sanctum-ipsum/
+
+---
+
+> Bibliography
+https://plaintextproject.online/articles/2020/04/14/structure.html
+
+---fin---
