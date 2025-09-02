@@ -1,23 +1,23 @@
 <rss version="2.0">
     <channel>
-        <item>
-            <title>New Homily</title>
-            <link>https://davidbaunach.com/homilies/homilies.txt</link>
-            <description>Added my homily for last weekend to homilies.txt, particularly liked how I was able to structure it. The aesthetics are good. Link: https://davidbaunach.com/homilies/homilies.txt</description>
-        </item>
-        <item>
-            <title>A Saint Maker Plaintext Stylesheet.txt</title>
-            <link>https://davidbaunach.com/writings/a-saint-maker-plaintext-stylesheet.txt</link>
-            <description>Minimalist stylesheet for formating research papers in txt files. Link: https://davidbaunach.com/writings/a-saint-maker-plaintext-stylesheet.txt</description>
-        </item>
         <title>davidbaunach.com</title>
         <description>The Personal Website of Fr David Baunach</description>
         <link>https://davidbaunach.com</link>
-        <item>
-            <title>A Soft Rebellion.txt</title>
-            <link>https://davidbaunach.com/writings/a-soft-rebellion.txt</link>
-            <description>Sewing and mending your own clothes as an act of rebellion. Link: https://davidbaunach.com/writings/a-soft-rebellion.txt</description>
-        </item>
+            <item>
+                <title>Home.txt</title>
+                <link>https://davidbaunach.com/writings/home.txt</link>
+                <description>A short reflection on visiting home, which I will probably add to in the future. Link: https://davidbaunach.com/writings/home.txt</description>
+            </item>
+            <item>
+                <title>New Homily</title>
+                <link>https://davidbaunach.com/homilies/homilies.txt</link>
+                <description>Added my homily for last weekend to homilies.txt, particularly liked how I was able to structure it. The aesthetics are good. Link: https://davidbaunach.com/homilies/homilies.txt</description>
+            </item>
+            <item>
+                <title>A Saint Maker Plaintext Stylesheet.txt</title>
+                <link>https://davidbaunach.com/writings/a-saint-maker-plaintext-stylesheet.txt</link>
+                <description>Minimalist stylesheet for formating research papers in txt files. Link: https://davidbaunach.com/writings/a-saint-maker-plaintext-stylesheet.txt</description>
+            </item>
     </channel>
 </rss>
 
